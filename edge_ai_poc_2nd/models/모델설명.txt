@@ -1,0 +1,1 @@
+ssd_mobilenet_v2_edgetpu_apple.tflite, ssd_mobilenet_v2_edgetpu_cow.tflite, ssd_mobilenet_v2_edgetpu_person.tflite 모델은 ssd_mobilenet_v2_edgetpu_coco.tflite 모델임
